@@ -48,6 +48,7 @@ section {
   max-width :600px;
   text-align: center;
   margin: 10px;
+  border: 2px solid #e75480;
 }
 section img {
   width: 100%;
